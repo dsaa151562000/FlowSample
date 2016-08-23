@@ -36,6 +36,7 @@ module FlowSample
       g.assets     false
       g.helper     false
     end
+    
   end
   
   
